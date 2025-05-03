@@ -1,0 +1,12 @@
+# 가상 환경
+.venv/
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+
+# 운영체제 무시 파일
+.DS_Store
+
+# (선택) 음원 파일 제외 시
+# assets/sounds/*.wav
