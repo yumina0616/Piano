@@ -10,3 +10,4 @@ __pycache__/
 
 # (선택) 음원 파일 제외 시
 # assets/sounds/*.wav
+"*.mp4"
